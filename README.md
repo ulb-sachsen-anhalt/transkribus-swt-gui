@@ -1,6 +1,6 @@
 # TranskribusSwtGui / Transkribus expert client
 
-[![Java CI with Maven](https://github.com/ulb-sachsen-anhalt/TranskribusSwtGui/actions/workflows/maven.yml/badge.svg)](https://github.com/ulb-sachsen-anhalt/TranskribusSwtGui/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/ulb-sachsen-anhalt/transkribus-swt-gui/actions/workflows/main.yml/badge.svg)](https://github.com/ulb-sachsen-anhalt/transkribus-swt-gui/actions/workflows/main.yml)
 
 SWT based Java-GUI-Application for Transkribus platform forked from [TranskribusSwtGui / Transkribus expert client / TranskribusX](https://gitlab.com/readcoop/transkribus/TranskribusSwtGui) (formerly: [TranskribusSwtGui](https://github.com/Transkribus/TranskribusSwtGui)).
 
